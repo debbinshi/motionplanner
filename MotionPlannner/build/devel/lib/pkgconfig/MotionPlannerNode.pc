@@ -1,0 +1,8 @@
+prefix=/home/debbin/github_mp/MotionPlannner/build/devel
+
+Name: MotionPlannerNode
+Description: Description of MotionPlannerNode
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/debbin/github_mp/MotionPlannner/build/devel/lib 
+Requires: 

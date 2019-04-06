@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/debbin/github_mp/MotionPlannner/modules/common/coordinte.cpp
+coordinte.h
+/home/debbin/github_mp/MotionPlannner/modules/common/coordinte.h
+math.h
+-
+
+/home/debbin/github_mp/MotionPlannner/modules/common/coordinte.h
+geometry.h
+/home/debbin/github_mp/MotionPlannner/modules/common/geometry.h
+
+/home/debbin/github_mp/MotionPlannner/modules/common/geometry.cpp
+geometry.h
+/home/debbin/github_mp/MotionPlannner/modules/common/geometry.h
+math.h
+-
+stdint.h
+-
+limits
+-
+
+/home/debbin/github_mp/MotionPlannner/modules/common/geometry.h
+vector
+-
+string
+-
+
+/home/debbin/github_mp/MotionPlannner/modules/common/units.cpp
+units.h
+/home/debbin/github_mp/MotionPlannner/modules/common/units.h
+
+/home/debbin/github_mp/MotionPlannner/modules/common/units.h
+math.h
+-
+

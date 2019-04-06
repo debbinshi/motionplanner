@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC -O0 -Wall -g2 -ggdb  -shared -Wl,-soname,libcommon.so -o libcommon.so CMakeFiles/common.dir/geometry.cpp.o CMakeFiles/common.dir/coordinte.cpp.o CMakeFiles/common.dir/units.cpp.o 
